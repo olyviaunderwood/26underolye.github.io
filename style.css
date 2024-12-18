@@ -101,19 +101,19 @@ img{
        text-align:center;
 }
 #collage{
-     margin: 50px 50px 50px 50px
-    width: 300px
+     margin: 50px 50px 50px 50px;
+    width: 300px;
 }
 .pics{
-margin: 10px 50px 10px 50px
+margin: 10px 50px 10px 50px;
 }
 
 #calendar{
-height:500px
-    margin: 0px 0px 0px 100px
+height:500px;
+    margin: 0px 0px 0px 100px;
 }
 
 #flyer{
-height:500px
-margin: 0px 0px 0px 100px
+height:500px;
+margin: 0px 0px 0px 100px;
 }
