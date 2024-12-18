@@ -110,8 +110,10 @@ margin: 10px 50px 10px 50px
 
 #calendar{
 height:500px
+    margin: 0px 0px 0px 100px
 }
 
 #flyer{
 height:500px
+margin: 0px 0px 0px 100px
 }
